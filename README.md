@@ -1,2 +1,3 @@
 # MyStuff
 My files and stuff, mostly useless to others.
+I am a total Linux noob trying to learn my way around. I can code in Bash and Python like a child. Want to use Git because it seems a useful place to backup my childish scripts and config files.  I LOVE Linux, and do not understand why anyone would use Windows.  It is garbage; I should have switched decades ago.  Now I am an old fart, but I have learned more about my computer and how it works in the past three months than I learned in decades of using Windows!! If you are rummaging around my repository, you will be disappointed. I will always appreciate helpful advice though!!
